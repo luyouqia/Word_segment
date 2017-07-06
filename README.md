@@ -1,2 +1,2 @@
 # Word_segment
-bi-LSTM + crf
+bi-LSTM + crf model for word segment based on tensorflow
